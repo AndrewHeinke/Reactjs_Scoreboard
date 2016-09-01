@@ -1,2 +1,2 @@
 # Reactjs_Scoreboard
-A simple scoreboard built with React.js
+A scoreboard built with React.js
